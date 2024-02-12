@@ -1,6 +1,6 @@
 {
 	"pack":{
-		"pack_format": 0,
-		"description": "TUSBUpdate_vx.y.z_vx.y.z+1"
+		"pack_format": 13,
+		"description": "TUSBUpdate_v13.y.zα2_vx.y.z+1α2"
 	}
 }
