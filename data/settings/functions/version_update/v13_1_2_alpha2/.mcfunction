@@ -1,0 +1,1 @@
+execute if data storage v13alpha: {Version:{Major:1}} if score $World Calc matches ..1 run function settings:version_update/v13_1_2_alpha2/act

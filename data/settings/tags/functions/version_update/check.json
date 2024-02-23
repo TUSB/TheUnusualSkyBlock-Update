@@ -1,4 +1,6 @@
 {
   "replace": true,
-  "values": []
+  "values": [
+    "settings:version_update/v13_1_2_alpha2"
+  ]
 }
