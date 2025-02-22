@@ -1,6 +1,11 @@
 {
 	"pack":{
+<<<<<<< HEAD
 		"pack_format": 13,
 		"description": "TUSBUpdate_v13.y.zα2_vx.y.z+1α2"
+=======
+		"pack_format": 0,
+		"description": "TUSBUpdate_13.2.4α2_13.2.5α2"
+>>>>>>> fcbb5dc (v13.2.5α2 アップデートデータパック作成)
 	}
 }
